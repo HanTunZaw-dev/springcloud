@@ -1,6 +1,5 @@
-detail: Hello from Service B
+available-quantity: 19
 
 server:
   port: 8091
-
 
