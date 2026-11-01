@@ -1,0 +1,6 @@
+detail: Hello from Service B
+
+server:
+  port: 8091
+
+

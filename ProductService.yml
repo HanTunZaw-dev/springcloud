@@ -1,0 +1,4 @@
+detail: Hello from Service A
+
+server:
+  port: 8090
